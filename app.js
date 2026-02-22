@@ -4,3 +4,4 @@ alert("trivial change!");
 alert("another trivial change!");
 alert("and another trivial change!");
 console.log("change");
+console.log("change change");
